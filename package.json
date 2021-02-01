@@ -22,9 +22,9 @@
     "morgan": "~1.9.0",
     "popper.js": "^1.14.6"
   },
-  "description": "Express Generator Demo",
+  "description": "Mongoose Demo",
   "main": "server.js",
-  "author": "Tom Tsiliopoulos",
+  "author": "Jane Quintos",
   "license": "ISC",
   "devDependencies": {
     "@types/body-parser": "^1.17.0",
